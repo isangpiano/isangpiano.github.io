@@ -2120,10 +2120,10 @@
 
 /* Contact */
 	#contact {
-		background: url("images/overlay.png"), url("../../images/group2.jpg");
+		background: url("images/overlay.png"), url("../../images/group4.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top left , center center;
+		background-position: top left , top center;
 /* 
 
 	#contact {
